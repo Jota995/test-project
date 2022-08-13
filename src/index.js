@@ -9,5 +9,5 @@ app.use('/',(req,res)=>{
 })
 
 app.listen(PORT, () =>{
-    console.log(`app on port ${PORT}`)
+    console.log(`app on port ${PORT}.`)
 })
